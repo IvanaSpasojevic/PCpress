@@ -5,8 +5,8 @@
     <classes>
       <class name="testing.TestNG">
         <methods>
+          <include name="fillForm"/>
           <include name="openDriver"/>
-          <include name="firstArticle"/>
         </methods>
       </class> <!-- testing.TestNG -->
     </classes>
